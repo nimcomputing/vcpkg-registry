@@ -1,0 +1,5 @@
+{
+  "default": {
+    "windivert": { "baseline": "2.2.2", "port-version": 0 }
+  }
+}

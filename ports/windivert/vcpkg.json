@@ -1,0 +1,6 @@
+{
+  "name": "windivert",
+  "version-string": "2.2.2",
+  "description": "User-mode packet capture-and-divert package for Windows",
+  "homepage": "https://github.com/basil00/Divert"
+}
